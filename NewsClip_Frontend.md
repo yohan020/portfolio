@@ -3,6 +3,8 @@
 本リポジトリは、**NewsClipサービスのFlutterフロントエンドアプリケーション**です。
 ユーザーは、ニュース要約、ブックマーク、コミュニティ、通知機能などを利用できるほか、バックエンド（`Go Gin API`）と通信を行い、リアルタイムでデータの送受信を行います。
 
+[Repository](https://github.com/KIT-OpenSource-GAEBALBADAK/NewsClip-Frontend.git)
+
 ---
 
 ## ⚙️ 開発環境
