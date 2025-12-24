@@ -56,6 +56,8 @@ python camera_streaming.py
 ## デモ映像
 
 [https://github.com/yohan020/robot_vacuum/blob/master/demo/%EC%88%98%EB%8F%99%EB%AA%A8%EB%93%9C%20%EB%B0%8F%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%8B%9C%EC%97%B0.mp4]
+(https://github.com/user-attachments/assets/58a82b56-4a8e-4690-bfa6-d67cf72e7037)
+
 
 ## 課題と解決策 / 限界
 1. 電源分配の問題
