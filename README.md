@@ -29,3 +29,4 @@ Kumoh National Institute of Technology 情報科学科 在学 （27年卒見込�
 >   > **Front-end**<br>
 >   > - Language : Flutter
 >   > - Skill : FLutter
+>   NewsClipのReadme (https://github.com/yohan020/portfolio/blob/main/NewsClip.md)
